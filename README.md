@@ -149,8 +149,7 @@ Some basic tuning did not noticeably increase the MAE/MSE/RMSE/R2.... but it did
  
 ### **Lightgbm Results:**
 
-Learn more about Lightgbm model [here](https://www.analyticssteps.com/blogs/what-light-gbm-algorithm-how-use-it)
-This is a tree based algorithm which is fast but also prone to overfitting if used on less than 10,000 rows. This model worked well for our data. 
+This is a tree based algorithm which is fast but also prone to overfitting if used on less than 10,000 rows. This model worked well for our data. Learn more about Lightgbm model [here](https://www.analyticssteps.com/blogs/what-light-gbm-algorithm-how-use-it).
 
 Getting almost similar results in our evaluation metrics but having a lower RMSLE this could be a great option to pursue further. 
 
